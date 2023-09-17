@@ -1,6 +1,6 @@
 <h2 align="center">
   Hotstar Clone<br/>
-  <a href="https://rf2rhk.csb.app/" target="_blank">Hotstarclone</a>
+  <a href="https://sanjeev93936.github.io/Hotstar_clone/" target="_blank">Hotstarclone</a>
 </h2>
 
 
@@ -11,7 +11,7 @@
 
 ## Demo
 
-You can find the Demo [Amazon_Clone](https://fir-e4689.web.app/).
+You can find the Demo [Hotstar Clone](https://sanjeev93936.github.io/Hotstar_clone/)
 
 ## Introduction
 
